@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453664100813",
+    "project_id": "sharingphotos-e26fa",
+    "storage_bucket": "sharingphotos-e26fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453664100813:android:5bd30481cb7477fb563484",
+        "android_client_info": {
+          "package_name": "com.mek.sharingphotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453664100813-o88jgoue21vl252iqqaqsh3e8275o27v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOzshcaZNf04Z26kHfnHZjEFIFhgPmFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453664100813-o88jgoue21vl252iqqaqsh3e8275o27v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
